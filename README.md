@@ -1,4 +1,4 @@
-### 👋 Jerome Bulosan | Web Developer 🚀 
+### 👋 Jerome  | Web Developer 🚀 
 ### 💻 HTML | CSS | JavaScript 
 ### 🌐 Open to Collaborate! 
 ### Let's code together! 🤝✨
