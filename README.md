@@ -1,7 +1,4 @@
-# Hi, I'm Jerome R. Bulosan
+# Hi, I'm Jerome Bulosan | Web Developer  
+ Aspiring Full-Stack Developer in the Making  
 
-## Fresh graduate in Information Technology, specializing in Web Application Development  
-## Front-End Developer focused on building clean, responsive, and user-friendly web apps  
-## Tech Stack: HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Supabase, Typescript, Php 
-## Currently working on React projects and personal full-stack apps  
-## Open to collaboration and learning opportunities  
+📩 Let's connect and grow together!
